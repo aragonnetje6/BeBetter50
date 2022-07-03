@@ -1,4 +1,4 @@
-namespace BetterBe50.Entities;
+namespace BeBetter50.Entities;
 
 public record Car
 (
