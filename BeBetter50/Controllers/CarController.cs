@@ -1,6 +1,7 @@
+using BeBetter50.Entities;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BeBetter50.Entities.Controllers;
+namespace BeBetter50.Controllers;
 
 [ApiController]
 [Route("rest/[controller]/")]
